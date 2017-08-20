@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TEXT3</string>
+
+    <string-array name="array_offices">
+        <item>HR Office</item>
+        <item>Tech Office</item>
+        <item>Marketing Office</item>
+    </string-array>
+</resources>
